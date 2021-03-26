@@ -9,3 +9,7 @@ Axios is a Javascript library used to make HTTP requests from node.js or XMLHttp
 Cheerio module is a fast, flexible & lean implementation of core jQuery designed specifically for the server. Cheerio parses markup and provides an API for traversing/manipulating the resulting data structure. Using this module I search for and extract the news headlines from the BBC HTML.
 
 Once I get the news headlines, they get saved in MongoDB using Mongoose.
+
+The following diagram shows the architecture of the project.
+
+![Untitled Diagram](https://user-images.githubusercontent.com/14207804/112695767-a6b0d000-8e52-11eb-8990-af4b6c4833d6.png)
