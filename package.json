@@ -1,0 +1,23 @@
+{
+  "name": "cronjob-project",
+  "version": "1.0.0",
+  "description": "Cronjob in Node.js using node-cron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Axios",
+    "Cheerio",
+    "Mongoose"
+  ],
+  "author": "R. Andrés Vera P.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.12.1",
+    "node-cron": "^3.0.0"
+  }
+}
