@@ -1,6 +1,6 @@
 # basic-cronjob-with-mongoose
 
-This project consist of a small cron job that performs web scraping every 4 hours to extract recent news headlines and store them in MongoDB.
+This project consist of a small cron job that performs web scraping every 15 minutes to extract recent news headlines and store them in MongoDB.
 
 The cron job is developed using the node-cron module, a tiny task scheduler in pure JavaScript for node.js based on GNU crontab. Other tools used are Axios, Cheerio and Mongoose.
 
