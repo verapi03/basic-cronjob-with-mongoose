@@ -14,4 +14,4 @@ The following diagram shows the architecture of the project.
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/14207804/112695767-a6b0d000-8e52-11eb-8990-af4b6c4833d6.png)
 
-This project uses MongoDB Atlas as its batabase, so in order to see it working, upon cloning it and having installed its dependencies, inside the file .env you need to change the variables \<username\>, <password> and <databaseName> according to your own MongoDB Atlas credentials.
+This project uses MongoDB Atlas as its batabase, so in order to see it working, upon cloning it and having installed its dependencies, inside the file .env you need to change the variables \<username\>, \<password\> and \<databaseName\> according to your own MongoDB Atlas credentials.
